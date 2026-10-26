@@ -7,68 +7,10 @@
   "menu": {
     "tr": [
       {
-        "date": "2026-10-10",
-        "sabah": [
-          "SEBZELİ OMLET",
-          "MILFOY BOREK",
-          "TEREYAĞI-BAL",
-          "ÜÇGEN PEYNİR",
-          "BEYAZ PEYNİR-KAŞAR PEYNİR",
-          "KARIŞIK ZEYTİN",
-          "EZOGELİN ÇORBA",
-          "YEŞİLLİK/MARUL-MAYDONOZ-NANE",
-          "DOMATES SÖĞÜŞ",
-          "SALATALIK SÖĞÜŞ"
-        ],
-        "oglen": [
-          "MANTAR ÇORBA",
-          "PATATES MUSAKKA",
-          "BULGUR PİLAVI",
-          "TATLI",
-          "SALATABAR& MEZE"
-        ],
-        "aksam": [
-          "ANADOLU ÇORBA",
-          "MANTARLI ET SOTE",
-          "ŞEHRİYELİ PİLAV",
-          "MEYVE",
-          "SALATABAR& MEZE"
-        ]
-      },
-      {
-        "date": "2026-10-11",
+        "date": "2026-10-26",
         "sabah": [
           "HAŞLANMIŞ YUMURTA",
-          "KEK",
-          "ÇİKOLATA",
-          "TEREYAĞI-REÇEL",
-          "KAŞAR PEYNİR-LABNE PEYNİR",
-          "KARIŞIK ZEYTİN",
-          "PATATES KIZARTMA",
-          "YEŞİLLİK/MARUL-MAYDONOZ-NANE",
-          "DOMATES SÖĞÜŞ",
-          "SALATALIK SÖĞÜŞ"
-        ],
-        "oglen": [
-          "MERCİMEK ÇORBA",
-          "ETLİ NOHUT",
-          "BULGUR PİLAVI",
-          "KOMPOSTO",
-          "SALATABAR& MEZE"
-        ],
-        "aksam": [
-          "SEBZE ÇORBA",
-          "ET DÖNER",
-          "PİRİNÇ PİLAVI",
-          "COLA/FANTA",
-          "SALATABAR& MEZE"
-        ]
-      },
-      {
-        "date": "2026-10-12",
-        "sabah": [
-          "HAŞLANMIŞ YUMURTA",
-          "SİMİT",
+          "PEYNİRLİ POĞAÇA",
           "HELVA",
           "TEREYAĞI-REÇEL",
           "KAŞAR PEYNİR-LABNE PEYNİR",
@@ -79,25 +21,25 @@
           "SALATALIK SÖĞÜŞ"
         ],
         "oglen": [
-          "ANADOLU ÇORBA",
-          "İZMİR KÖFTE",
-          "PİRİNÇ PİLAVI",
-          "MEYVE",
+          "SEBZE ÇORBA",
+          "TEPSİ KEBABI",
+          "BULGUR PİLAVI",
+          "AYRAN",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "TARHANA ÇORBA",
-          "PATLICAN MUSAKKA",
-          "BULGUR PİLAVI",
-          "CACIK",
+          "MERCİMEK ÇORBA",
+          "BAHÇIVAN KEBABI",
+          "PİRİNÇ PİLAVI",
+          "TATLI",
           "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-13",
+        "date": "2026-10-27",
         "sabah": [
           "SEBZELİ OMLET",
-          "ZEYTINLI POĞAÇA",
+          "MILFOY BOREK",
           "TEREYAĞI-REÇEL",
           "SOSİS",
           "BEYAZ PEYNİR-KAŞAR PEYNİR",
@@ -109,21 +51,21 @@
         ],
         "oglen": [
           "DOMATES ÇORBA",
-          "TAVUK SARMA",
-          "SOSLU MAKARNA",
-          "AYRAN",
+          "TAVUK PİRZOLA",
+          "SEBZELİ PİRİNÇ PİLAVI",
+          "MEYVE",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "MERCİMEK ÇORBA",
-          "ORMAN KEBABI",
-          "ŞEHRİYELİ PİLAV",
-          "TATLI",
+          "TARHANA ÇORBA",
+          "PATLICAN MUSAKKA",
+          "PİRİNÇ PİLAVI",
+          "CACIK",
           "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-14",
+        "date": "2026-10-28",
         "sabah": [
           "HAŞLANMIŞ YUMURTA",
           "TEPSİ BÖREĞİ",
@@ -137,22 +79,22 @@
           "SALATALIK SÖĞÜŞ"
         ],
         "oglen": [
-          "ANTEP ÇORBA",
-          "HÜNKAR BEGENDI",
-          "BULGUR PİLAVI",
-          "MEYVE",
+          "MERCİMEK ÇORBA",
+          "ETLİ KURU FASÜLYE",
+          "PİRİNÇ PİLAVI",
+          "KOMPOSTO",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "EZOGELİN ÇORBA",
-          "HAMBURGER (ET)",
-          "PATATES KIZARTMA",
-          "COLA/FANTA",
-          "SALATABAR&MEZE"
+          "TARHANA ÇORBA",
+          "İZMİR KÖFTE",
+          "SOSLU MAKARNA",
+          "YOĞURT",
+          "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-15",
+        "date": "2026-10-29",
         "sabah": [
           "MELEMEN",
           "PEYNİRLİ POĞAÇA",
@@ -166,22 +108,22 @@
           "SALATALIK SÖĞÜŞ"
         ],
         "oglen": [
-          "ISPANAK ÇORBA",
-          "FIRIN KUZU HASLAMA",
+          "SEBZE ÇORBA",
+          "KUZU HAŞLAMA",
           "ARPA ŞEH.PİRİNÇ PİLAVI",
-          "CACIK",
+          "MEYVE",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "ANTEP ÇORBA",
-          "ETLİ YAZ TÜRLÜSÜ",
-          "BULGUR PİLAVI",
-          "TATLI",
-          "SALATABAR& YOĞ. MAK"
+          "EZOGELİN ÇORBA",
+          "BARBEKÜ",
+          "MEYHANE PİLAVI",
+          "COLA/FANTA/BAKLAVA",
+          "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-16",
+        "date": "2026-10-30",
         "sabah": [
           "EZOGELİN ÇORBA",
           "SOSİS KIZARTMA",
@@ -202,15 +144,15 @@
           "BRUNCH MENÜ"
         ],
         "aksam": [
-          "ANADOLU ÇORBA",
-          "ARNAVUT CİĞERİ",
-          "ŞEHRİYELİ PİLAV",
+          "MERCİMEK ÇORBA",
+          "İNEGÖL KÖFTE-MANGAL",
+          "PİRİNÇ PİLAVI",
           "AYRAN",
-          "SALATABAR"
+          "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-17",
+        "date": "2026-10-31",
         "sabah": [
           "SEBZELİ OMLET",
           "SİMİT",
@@ -224,22 +166,22 @@
           "SALATALIK SÖĞÜŞ"
         ],
         "oglen": [
-          "TARHANA ÇORBA",
-          "ETLİ BEZELYE",
+          "ŞEHRİYE ÇORBA",
+          "TAVUK SOTE",
           "PİRİNÇ PİLAVI",
-          "TATLI",
+          "YOĞURT",
           "SALATABAR& MEZE"
         ],
         "aksam": [
           "EZOGELİN ÇORBA",
-          "KIYMALI  PİDE/2 ADET KISI BASI",
-          "HAVUC DILIM SOSLU PATATES",
-          "AYRAN",
+          "ELBASAN TAVA",
+          "ARPA ŞEH.PİRİNÇ PİLAVI",
+          "MEYVE",
           "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-18",
+        "date": "2026-11-01",
         "sabah": [
           "MELEMEN",
           "MILFOY BOREK",
@@ -253,22 +195,22 @@
           "SALATALIK SÖĞÜŞ"
         ],
         "oglen": [
-          "ŞEHRİYE ÇORBA",
-          "TAVUK SOTE",
-          "PİRİNÇ PİLAVI",
-          "MEYVE",
+          "ANTEP ÇORBA",
+          "EKŞİLİ KÖFTE-KIRMIZI SOSLU",
+          "BULGUR PİLAVI",
+          "CACIK",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "YAYLA ÇORBA",
-          "BAHÇIVAN KEBABI",
-          "BULGUR PİLAVI",
-          "YOĞURT",
+          "MERCİMEK ÇORBA",
+          "ETLİ BAMYA",
+          "PİRİNÇ PİLAVI",
+          "TATLI",
           "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-19",
+        "date": "2026-11-02",
         "sabah": [
           "HAŞLANMIŞ YUMURTA",
           "KEK",
@@ -283,21 +225,21 @@
         ],
         "oglen": [
           "SEBZE ÇORBA",
-          "ETLİ KURU FASÜLYE",
+          "ETLİ NOHUT",
           "PİRİNÇ PİLAVI",
           "KOMPOSTO",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "EZOGELİN ÇORBA",
-          "BARBEKÜ",
-          "MEYHANE PİLAVI",
-          "COLA/FANTA",
+          "DÖĞME ÇORBA",
+          "TAS KEBABI",
+          "PİRİNÇ PİLAVI",
+          "MEYVE",
           "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-20",
+        "date": "2026-11-03",
         "sabah": [
           "SEBZELİ OMLET",
           "ZEYTİNLİ POĞAÇA",
@@ -311,22 +253,22 @@
           "SALATALIK SÖĞÜŞ"
         ],
         "oglen": [
-          "MERCİMEK ÇORBA",
-          "TAVUK BROST",
-          "ŞEHRİYELİ PİLAV",
+          "EZOGELİN ÇORBA",
+          "TAVUK BAGET FIRIN SEBZELI",
+          "ARPA ŞEH.PİRİNÇ PİLAVI",
           "AYRAN",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "PAÇA ÇORBA",
-          "KIYMALI KARNABAHAR",
-          "SOSLU SPAGETTİ",
+          "TAVUK ÇORBA",
+          "KIYMALISPANAK",
+          "FIRIN MAKARNA",
           "YOĞURT",
           "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-21",
+        "date": "2026-11-04",
         "sabah": [
           "HAŞLANMIŞ YUMURTA",
           "TEPSİ BÖREĞİ",
@@ -340,22 +282,22 @@
           "SALATALIK SÖĞÜŞ"
         ],
         "oglen": [
-          "EZOGELİN ÇORBA",
-          "KARNIYARIK",
-          "PİRİNÇ PİLAVI",
-          "CACIK",
+          "SEBZE ÇORBA",
+          "ANKARA TAVA",
+          "BARBUNYA",
+          "MEYVE",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "DOMATES ÇORBA",
-          "BALIK",
-          "IZGARA /FIRIN SEBZE",
-          "TAHIN HELVA DILIM",
+          "EZOGELİN ÇORBA",
+          "PİZZA",
+          "PATATES KIZARTMA",
+          "COLA/FANTA",
           "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-22",
+        "date": "2026-11-05",
         "sabah": [
           "MELEMEN",
           "SİMİT",
@@ -370,21 +312,21 @@
         ],
         "oglen": [
           "TARHANA ÇORBA",
-          "SEBZELİ FIRIN TAVUK KEMIKLI",
+          "SEBZELİ TAVUK KAVURMA",
           "BULGUR PİLAVI",
-          "TATLI",
+          "CACIK",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "TAVUK ÇORBA",
-          "KIYMALI TAZE FASÜLYE",
-          "FIRIN MAKARNA",
-          "YOĞURT& TATLI",
+          "DOMATES ÇORBA",
+          "BALIK",
+          "IZGARA /FIRIN SEBZE",
+          "TAHIN HELVA DILIM",
           "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-23",
+        "date": "2026-11-06",
         "sabah": [
           "HAŞLANMIŞ YUMURTA",
           "AÇMA",
@@ -398,22 +340,22 @@
           "SALATALIK SÖĞÜŞ"
         ],
         "oglen": [
-          "ANTEP ÇORBA",
-          "FIRIN KUZU HASLAMA",
-          "PİRİNÇ PİLAVI",
-          "CACIK",
+          "ISPANAK ÇORBA",
+          "KADINBUDU KÖFTE",
+          "SOSLU SPAGETTİ",
+          "AYRAN",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "ANADOLU ÇORBA",
-          "ETLİ ÖZBEK PİLAVI",
-          "KARIŞIK KIZARTMA",
+          "TAVUK ÇORBA",
+          "BİBER DOLMA",
+          "TEPSİ BÖREĞİ",
           "YOĞURT",
           "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-24",
+        "date": "2026-11-07",
         "sabah": [
           "SEBZELİ OMLET",
           "MILFOY BOREK",
@@ -429,20 +371,20 @@
         "oglen": [
           "MANTAR ÇORBA",
           "PATATES MUSAKKA",
-          "BULGUR PİLAVI",
+          "ARPA ŞEH.PİRİNÇ PİLAVI",
           "MEYVE",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "EZOGELİN ÇORBA",
-          "TANTUNİ",
-          "GARNİTÜR",
-          "AYRAN",
+          "ANADOLU ÇORBA",
+          "BEEF STROGANOF",
+          "ŞEHRİYELİ PİLAV",
+          "CACIK",
           "SALATABAR& MEZE"
         ]
       },
       {
-        "date": "2026-10-25",
+        "date": "2026-11-08",
         "sabah": [
           "HAŞLANMIŞ YUMURTA",
           "KEK",
@@ -456,15 +398,15 @@
           "SALATALIK SÖĞÜŞ"
         ],
         "oglen": [
-          "MERCİMEK ÇORBA",
+          "SEBZE ÇORBA",
           "ETLİ NOHUT",
-          "PİRİNÇ PİLAVI",
+          "BULGUR PİLAVI",
           "KOMPOSTO",
           "SALATABAR& MEZE"
         ],
         "aksam": [
-          "SEBZE ÇORBA",
-          "ET DÖNER",
+          "MERCİMEK ÇORBA",
+          "TAVUK DÖNER",
           "PİRİNÇ PİLAVI",
           "COLA/FANTA",
           "SALATABAR& MEZE"
@@ -473,47 +415,7 @@
     ],
     "local": [
       {
-        "date": "2026-10-10",
-        "sabah": [
-          "SOUP (DAL)",
-          "BOILED EGG",
-          "BUTTER-TAHINI",
-          "WHITE CHEESE"
-        ],
-        "oglen": [
-          "SOUP (DAL)",
-          "VEGETABLE DISH",
-          "RICE",
-          "SWEET"
-        ],
-        "aksam": [
-          "SOUP (DAL)",
-          "CHICKEN DISH",
-          "RICE"
-        ]
-      },
-      {
-        "date": "2026-10-11",
-        "sabah": [
-          "SOUP (DAL)",
-          "BOILED EGG",
-          "BUTTER-JAM",
-          "TRIANGLE CHEESE"
-        ],
-        "oglen": [
-          "SOUP (DAL)",
-          "VEGETABLE DISH",
-          "RICE",
-          "TANG"
-        ],
-        "aksam": [
-          "SOUP (DAL)",
-          "EGG WITH POTATOES",
-          "RICE"
-        ]
-      },
-      {
-        "date": "2026-10-12",
+        "date": "2026-10-26",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
@@ -532,7 +434,7 @@
         ]
       },
       {
-        "date": "2026-10-13",
+        "date": "2026-10-27",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
@@ -551,7 +453,7 @@
         ]
       },
       {
-        "date": "2026-10-14",
+        "date": "2026-10-28",
         "sabah": [
           "SOUP (DAL)",
           "EGG WITH POTATOES",
@@ -571,7 +473,7 @@
         ]
       },
       {
-        "date": "2026-10-15",
+        "date": "2026-10-29",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
@@ -591,7 +493,7 @@
         ]
       },
       {
-        "date": "2026-10-16",
+        "date": "2026-10-30",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
@@ -611,7 +513,7 @@
         ]
       },
       {
-        "date": "2026-10-17",
+        "date": "2026-10-31",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
@@ -631,7 +533,7 @@
         ]
       },
       {
-        "date": "2026-10-18",
+        "date": "2026-11-01",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
@@ -651,7 +553,7 @@
         ]
       },
       {
-        "date": "2026-10-19",
+        "date": "2026-11-02",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
@@ -665,14 +567,13 @@
           "FRUIT"
         ],
         "aksam": [
-          "SOUP (DAL)",
-          "BARBECUE",
-          "RICE",
+          "BIRYANI-CHICKEN",
+          "RAITA",
           "AYRAN"
         ]
       },
       {
-        "date": "2026-10-20",
+        "date": "2026-11-03",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
@@ -691,7 +592,7 @@
         ]
       },
       {
-        "date": "2026-10-21",
+        "date": "2026-11-04",
         "sabah": [
           "SOUP (DAL)",
           "EGG WITH POTATOES",
@@ -710,7 +611,7 @@
         ]
       },
       {
-        "date": "2026-10-22",
+        "date": "2026-11-05",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
@@ -731,7 +632,7 @@
         ]
       },
       {
-        "date": "2026-10-23",
+        "date": "2026-11-06",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
@@ -751,7 +652,7 @@
         ]
       },
       {
-        "date": "2026-10-24",
+        "date": "2026-11-07",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
@@ -771,7 +672,7 @@
         ]
       },
       {
-        "date": "2026-10-25",
+        "date": "2026-11-08",
         "sabah": [
           "SOUP (DAL)",
           "BOILED EGG",
